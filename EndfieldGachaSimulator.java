@@ -1,4 +1,4 @@
-package com.bgigov.tax.rest;
+package com.bgigov.endfield;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -528,3 +528,4 @@ public class EndfieldGachaSimulator {
         rollUrgentRecruitment(rolls); // this is more of a sanity test, really
     }
 }
+
